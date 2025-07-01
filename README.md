@@ -82,3 +82,8 @@ Informed decision-making during poor weather conditions
 
 Aircraft design reviews by manufacturers
 
+✅ Deliverables
+Presentation = https://www.canva.com/design/DAGr3XWCNrg/oT2Je-WOm0Je328_chpEYg/edit
+
+Tableau Link = https://public.tableau.com/app/profile/stanley.njihia/viz/AviationDataset/MainDash?publish=yes
+
